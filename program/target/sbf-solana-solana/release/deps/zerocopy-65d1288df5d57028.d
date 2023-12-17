@@ -1,0 +1,15 @@
+/home/codigo/workspace/FinalProject/program/target/sbf-solana-solana/release/deps/zerocopy-65d1288df5d57028.rmeta: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macros.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macro_util.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/post_monomorphization_compile_fail_tests.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/util.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/third_party/rust/layout.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/wrappers.rs
+
+/home/codigo/workspace/FinalProject/program/target/sbf-solana-solana/release/deps/libzerocopy-65d1288df5d57028.rlib: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macros.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macro_util.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/post_monomorphization_compile_fail_tests.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/util.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/third_party/rust/layout.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/wrappers.rs
+
+/home/codigo/workspace/FinalProject/program/target/sbf-solana-solana/release/deps/zerocopy-65d1288df5d57028.d: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macros.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macro_util.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/post_monomorphization_compile_fail_tests.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/util.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/third_party/rust/layout.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/wrappers.rs
+
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/lib.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macros.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/macro_util.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/post_monomorphization_compile_fail_tests.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/util.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/third_party/rust/layout.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/zerocopy-0.7.31/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.31
